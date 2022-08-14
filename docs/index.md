@@ -15,8 +15,8 @@ This website, as said above provides documentation, usages, and about for module
 - [Roblox Developer Forum](https://devforum.roblox.com/u/itzethanplayz_yt/) (redirects to old account since new account has issues with DevForum)
 - [Twitter](https://twitter.com/RadiatedExodus)
 - [YouTube](https://www.youtube.com/channel/UCuLAUKIVWXpzSKgn8U6TllA)
-- E-Mail: radiatedexodus@gmail.com
-- Discord: .イーサン#6627
+- E-Mail: ``radiatedexodus@gmail.com``
+- Discord: ``RE#6627``
 
 ## Public modules available
 - [Device Info](./DeviceInfo/About/)
