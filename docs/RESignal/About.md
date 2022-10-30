@@ -1,10 +1,4 @@
-RESignal is my own vanilla luau signal implementation, with 3 modes:
-
-| Mode name | Description                                                                                                                                 |
-|-----------|---------------------------------------------------------------------------------------------------------------------------------------------|
-| NewThread | Spawns the callback of a connection on a new thread using ``task.spawn()``                                                                  |
-| Deferred  | Spawns the callback of a connection on a deferred thread (run callbacks after the thread calling Fire has finished) using ``task.defer()``. |
-| Synced    | **NOT YIELD-SAFE**. Execution of a connection callback is handled by the thread calling the fire function.                                  |
+RESignal is my own vanilla luau signal implementation, it has 3 different callback execution method ([see the ``SignalBehavior`` enum for more info](../API%20Reference/enum_SignalBehavior))
 
 ## Get the module
 - [GitHub gist](https://gist.github.com/RealEthanPlayzDev/c66c91006d75fc89c43171a372587bdb) (includes benchmark script)

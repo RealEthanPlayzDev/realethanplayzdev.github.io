@@ -4,32 +4,33 @@ theme:
   name: material
   palette:
     - scheme: default
+      primary: red
+      accent: red
       toggle:
         icon: material/weather-sunny
         name: Switch to dark mode
-        primary: red
-        accent: red
     - scheme: slate
+      primary: red
+      accent: red
       toggle:
         icon: material/weather-night
         name: Switch to light mode
-        primary: red
-        accent: red
     - media: "(prefers-color-scheme: light)"
       scheme: default
+      primary: red
+      accent: red
       toggle:
         icon: material/weather-sunny
         name: Switch to dark mode
-        primary: red
-        accent: red
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
+      primary: red
+      accent: red
       toggle:
         icon: material/weather-night
         name: Switch to light mode
-        primary: red
-        accent: red
   features:
+    - navigation.top
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.instant
@@ -40,6 +41,7 @@ theme:
     - search.suggest
     - search.highlight
     - search.share
+    - toc.follow
 plugins:
   - search
   - mkdocs-video
@@ -51,6 +53,13 @@ markdown_extensions:
   - footnotes
   - admonition
   - pymdownx.details
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - toc:
+      permalink: true
 extra:
   social:
     - icon: fontawesome/brands/github
@@ -60,7 +69,7 @@ extra:
     - icon: fontawesome/brands/youtube
       link: https://www.youtube.com/channel/UCuLAUKIVWXpzSKgn8U6TllA
     - icon: simple/roblox
-      link: https://www.youtube.com/channel/UCuLAUKIVWXpzSKgn8U6TllA
+      link: https://www.roblox.com/users/664076365/profile
 nav:
   - index.md
   - DeviceInfo:

@@ -9,6 +9,6 @@ RESignal.SignalBehavior = {
 
 | Mode name | Description                                                                                                                                 |
 |-----------|---------------------------------------------------------------------------------------------------------------------------------------------|
-| NewThread | Spawns the callback of a connection on a new thread using ``task.spawn()``                                                                  |
-| Deferred  | Spawns the callback of a connection on a deferred thread (run callbacks after the thread calling Fire has finished) using ``task.defer()``. |
-| Synced    | **NOT YIELD-SAFE**. Execution of a connection callback is handled by the thread calling the fire function.                                  |
+| NewThread | Calls the callback on a new thread using ``task.spawn()``                                                                                   |
+| Deferred  | Calls the callback on a deferred thread (runs after thread calling ``RESignal:Fire()`` has finished/yielded) using ``task.defer()``.        |
+| Synced    | ^^**{==NOT YIELD-SAFE==}**^^. Execution of a connection callback is handled by the thread calling the fire function.                        |
