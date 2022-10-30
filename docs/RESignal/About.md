@@ -1,4 +1,3 @@
-## RESignal
 RESignal is my own vanilla luau signal implementation, with 3 modes:
 
 | Mode name | Description                                                                                                                                 |

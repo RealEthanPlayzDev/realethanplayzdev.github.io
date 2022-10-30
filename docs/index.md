@@ -12,7 +12,7 @@ This website, as said above provides documentation, usages, and about for module
 - [My portfolio](https://github.com/RealEthanPlayzDev/RealEthanPlayzDev/blob/main/Portfolio.md)
 - [GitHub](https://github.com/RealEthanPlayzDev/)
 - [Roblox](https://www.roblox.com/users/664076365/profile)
-- [Roblox Developer Forum](https://devforum.roblox.com/u/itzethanplayz_yt/) (redirects to old account since new account has issues with DevForum)
+- [Roblox Developer Forum](https://devforum.roblox.com/u/radiatedexodus/)
 - [Twitter](https://twitter.com/RadiatedExodus)
 - [YouTube](https://www.youtube.com/channel/UCuLAUKIVWXpzSKgn8U6TllA)
 - E-Mail: ``radiatedexodus@gmail.com``
@@ -24,3 +24,4 @@ This website, as said above provides documentation, usages, and about for module
 - [RigConverter](./RigConverter/About/)
 - [StarGenerator](./StarGenerator/About/)
 - [GeometryLinesBackground](./GeometryLinesBackground/About/)
+- [RESignal](./RESignal/About/)

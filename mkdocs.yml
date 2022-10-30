@@ -1,4 +1,4 @@
-site_name: RadiatedExodus's Public Module Documentation
+site_name: RadiatedExodus Public Modules Documentation
 site_url: https://realethanplayzdev.github.io/
 theme:
   name: material
@@ -51,6 +51,16 @@ markdown_extensions:
   - footnotes
   - admonition
   - pymdownx.details
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/RealEthanPlayzDev
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/RadiatedExodus
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/channel/UCuLAUKIVWXpzSKgn8U6TllA
+    - icon: simple/roblox
+      link: https://www.youtube.com/channel/UCuLAUKIVWXpzSKgn8U6TllA
 nav:
   - index.md
   - DeviceInfo:

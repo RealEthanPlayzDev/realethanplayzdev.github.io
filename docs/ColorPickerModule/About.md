@@ -1,9 +1,9 @@
 This module is designed for letting players pick a color (from their screens aka from the client) and then the result can be returned back to the server.
-__**NOTE: No longer maintained.**__
 
-[Get the module here](https://www.roblox.com/library/5293087490/Color-Picker-Module)
+**NOTE: No longer maintained.**
 
-API Reference coming soon.
+## Get the module
+- [Roblox Model](https://www.roblox.com/library/5293087490/Color-Picker-Module)
 
 ## Credits
 - [boatbomber](https://www.roblox.com/users/33655127/profile) - Made changes to make EgoMoose's design to be better.
