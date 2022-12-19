@@ -18,7 +18,7 @@ This website, as said above provides documentation, usages, and about for module
 - E-Mail: ``radiatedexodus@gmail.com``
 - Discord: ``RE#6627``
 
-## Public modules available
+## Public modules
 - [Device Info](./DeviceInfo/About/)
 - [Color Picker Module](./ColorPickerModule/About/)
 - [RigConverter](./RigConverter/About/)
@@ -27,3 +27,6 @@ This website, as said above provides documentation, usages, and about for module
 - [RESignal](./RESignal/About/)
 - [LuaTextBox](./LuaTextBox/About.md)
 - [Builder](./Builder/About/)
+
+## Public plugins
+- [RunLSC](https://github.com/RealEthanPlayzDev/RunLSC)
