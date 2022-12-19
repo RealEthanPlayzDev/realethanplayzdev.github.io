@@ -153,6 +153,28 @@ nav:
           - Disconnect(): RESignal/API Reference/RESignalConnection/func_Disconnect.md
         - Public/exposed variables:
           - Connected: RESignal/API Reference/RESignalConnection/publicvar_Connected.md
+  - LuaTextBox:
+    - LuaTextBox/About.md
+    - API Reference:
+      - new(): LuaTextBox/API Reference/func_new.md
+      - LuaTextBox:
+        - Functions:
+          - SetName(): LuaTextBox/API Reference/LuaTextBox/func_SetName.md
+          - SetParent(): LuaTextBox/API Reference/LuaTextBox/func_SetParent.md
+          - DoAutocomplete(): LuaTextBox/API Reference/LuaTextBox/func_DoAutocomplete.md
+          - IsAutocompleting(): LuaTextBox/API Reference/LuaTextBox/func_IsAutocompleting.md
+          - TerminateCurrentAutocompleteSession(): LuaTextBox/API Reference/LuaTextBox/func_TerminateCurrentAutocompleteSession.md
+        - Public variables:
+          - Name: LuaTextBox/API Reference/LuaTextBox/publicvar_Name.md
+          - Parent: LuaTextBox/API Reference/LuaTextBox/publicvar_Parent.md
+          - Instance: LuaTextBox/API Reference/LuaTextBox/publicvar_Instance.md
+          - EditorInput: LuaTextBox/API Reference/LuaTextBox/publicvar_EditorInput.md
+          - Text: LuaTextBox/API Reference/LuaTextBox/publicvar_Text.md
+          - CursorPosition: LuaTextBox/API Reference/LuaTextBox/publicvar_CursorPosition.md
+          - SelectionStart: LuaTextBox/API Reference/LuaTextBox/publicvar_SelectionStart.md
+          - AutocompleteFrame: LuaTextBox/API Reference/LuaTextBox/publicvar_AutocompleteFrame.md
+          - AutocompleteTargets: LuaTextBox/API Reference/LuaTextBox/publicvar_AutocompleteTargets.md
+          - AutocompleteConnections: LuaTextBox/API Reference/LuaTextBox/publicvar_AutocompleteConnections.md
   - Builder:
     - Builder/About.md
     - Custom classes: Builder/CustomClasses.md
