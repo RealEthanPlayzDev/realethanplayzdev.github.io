@@ -154,3 +154,91 @@ nav:
           - Disconnect(): RESignal/API Reference/RESignalConnection/func_Disconnect.md
         - Public/exposed variables:
           - Connected: RESignal/API Reference/RESignalConnection/publicvar_Connected.md
+  - Builder:
+    - Builder/About.md
+    - Custom classes: Builder/CustomClasses.md
+    - API Reference:
+      - Types:
+        - Description: Builder/API Reference/Types/type_Description.md
+      - Builder:
+        - About: Builder/API Reference/Builder/About.md
+        - Functions:
+          - Descriptor: Builder/API Reference/Builder/func_Descriptor.md
+          - Event: Builder/API Reference/Builder/func_Event.md
+          - Method: Builder/API Reference/Builder/func_Method.md
+          - PropertyChangedSignal: Builder/API Reference/Builder/func_PropertyChangedSignal.md
+          - Attribute: Builder/API Reference/Builder/func_Attribute.md
+          - AttributeChangedSignal: Builder/API Reference/Builder/func_AttributeChangedSignal.md
+          - State: Builder/API Reference/Builder/func_State.md
+          - MultiState: Builder/API Reference/Builder/func_MultiState.md
+          - MultiStateResolvable: Builder/API Reference/Builder/func_MultiStateResolvable.md
+          - WrappedTypeof: Builder/API Reference/Builder/func_WrappedTypeof.md
+          - WrappedInstanceNew: Builder/API Reference/Builder/func_WrappedInstanceNew.md
+          - CreateDescriptorFunctionWithCustomClassLocation: Builder/API Reference/Builder/func_CreateDescriptorFunctionWithCustomClassLocation.md
+      - Descriptor:
+        - About: Builder/API Reference/Descriptor/About.md
+        - Functions:
+          - Build(): Builder/API Reference/Descriptor/func_Build.md
+        - Public variables:
+          - Class: Builder/API Reference/Descriptor/publicvar_Class.md
+          - Description: Builder/API Reference/Descriptor/publicvar_Description.md
+          - CustomClassesLocation: Builder/API Reference/Descriptor/publicvar_CustomClassesLocation.md
+      - Event:
+        - About: Builder/API Reference/Event/About.md
+        - Functions:
+          - Resolve(): Builder/API Reference/Event/func_Resolve.md
+        - Public variables:
+          - Target: Builder/API Reference/Event/publicvar_Target.md
+      - Method:
+        - About: Builder/API Reference/Method/About.md
+        - Functions:
+          - Resolve(): Builder/API Reference/Method/func_Resolve.md
+        - Public variables:
+          - Target: Builder/API Reference/Method/publicvar_Target.md
+      - PropertyChangedSignal:
+        - About: Builder/API Reference/PropertyChangedSignal/About.md
+        - Functions:
+          - Resolve(): Builder/API Reference/PropertyChangedSignal/func_Resolve.md
+        - Public variables:
+          - Target: Builder/API Reference/PropertyChangedSignal/publicvar_Target.md
+      - Attribute:
+        - About: Builder/API Reference/Attribute/About.md
+        - Functions:
+          - Resolve(): Builder/API Reference/Attribute/func_Resolve.md
+        - Public variables:
+          - Target: Builder/API Reference/Attribute/publicvar_Target.md
+      - AttributeChangedSignal:
+        - About: Builder/API Reference/AttributeChangedSignal/About.md
+        - Functions:
+          - Resolve(): Builder/API Reference/AttributeChangedSignal/func_Resolve.md
+        - Public variables:
+          - Target: Builder/API Reference/AttributeChangedSignal/publicvar_Target.md
+      - MultiStateResolvable:
+        - About: Builder/API Reference/MultiStateResolvable/About.md
+        - Functions:
+          - Resolve(): Builder/API Reference/MultiStateResolvable/func_Resolve.md
+        - Public variables:
+          - Target: Builder/API Reference/MultiStateResolvable/publicvar_Target.md
+          - MultiState: Builder/API Reference/MultiStateResolvable/publicvar_MultiState.md
+      - State:
+        - About: Builder/API Reference/State/About.md
+        - Functions:
+          - Get(): Builder/API Reference/State/func_Get.md
+          - Set(): Builder/API Reference/State/func_Set.md
+        - Public variables:
+          - Value: Builder/API Reference/State/publicvar_Value.md
+        - Events:
+          - OnChanged: Builder/API Reference/State/event_OnChanged.md
+      - MultiState:
+        - About: Builder/API Reference/MultiState/About.md
+        - Functions:
+          - Get(): Builder/API Reference/MultiState/func_Get.md
+          - Set(): Builder/API Reference/MultiState/func_Set.md
+        - Public variables:
+          - States: Builder/API Reference/MultiState/publicvar_States.md
+        - Events:
+          - OnChanged: Builder/API Reference/MultiState/event_OnChanged.md
+      - Resolvable:
+        - About: Builder/API Reference/Resolvable/About.md
+        - Functions:
+          - Resolve(): Builder/API Reference/Resolvable/func_Resolve.md

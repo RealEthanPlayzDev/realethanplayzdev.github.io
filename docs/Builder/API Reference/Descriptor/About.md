@@ -1,0 +1,1 @@
+``Descriptor`` is a object that stores the description of a instance, it has a [``Descriptor:Build()``](./func_Build.md) function to build the instance from that description.

@@ -1,0 +1,1 @@
+``Builder`` is a static class containing constructor functions for nearly everything and other utility functions. This class is returned by the module when being required by a script.

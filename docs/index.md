@@ -25,3 +25,4 @@ This website, as said above provides documentation, usages, and about for module
 - [StarGenerator](./StarGenerator/About/)
 - [GeometryLinesBackground](./GeometryLinesBackground/About/)
 - [RESignal](./RESignal/About/)
+- [Builder](./Builder/About/)
