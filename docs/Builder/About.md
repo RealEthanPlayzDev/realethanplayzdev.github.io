@@ -21,6 +21,4 @@ Builder also has support for custom classes, just ensure it's inside a modulescr
 Upon requiring the module, it will return the [``Builder``](./API%20Reference/Builder/About.md) class.
 
 ## Get the module
-Right now the module is all packed into one script, I might seperate it into multiple scripts for the sake of maintenance and readability later.
-
-- [GitHub Gist](https://gist.github.com/RealEthanPlayzDev/fa7c8bbb06415937f93ff83d34abbd47)
+- [GitHub Repository](https://github.com/RealEthanPlayzDev/Builder)
