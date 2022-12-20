@@ -193,6 +193,7 @@ nav:
           - State: Builder/API Reference/Builder/func_State.md
           - MultiState: Builder/API Reference/Builder/func_MultiState.md
           - MultiStateResolvable: Builder/API Reference/Builder/func_MultiStateResolvable.md
+          - Cleaner: Builder/API Reference/Builder/func_Cleaner.md
           - WrappedTypeof: Builder/API Reference/Builder/func_WrappedTypeof.md
           - WrappedInstanceNew: Builder/API Reference/Builder/func_WrappedInstanceNew.md
           - CreateDescriptorFunctionWithCustomClassLocation: Builder/API Reference/Builder/func_CreateDescriptorFunctionWithCustomClassLocation.md
@@ -259,6 +260,19 @@ nav:
           - States: Builder/API Reference/MultiState/publicvar_States.md
         - Events:
           - OnChanged: Builder/API Reference/MultiState/event_OnChanged.md
+      - Cleaner:
+        - About: Builder/API Reference/Cleaner/About.md
+        - Functions:
+          - Add(): Builder/API Reference/Cleaner/func_Add.md
+          - Remove(): Builder/API Reference/Cleaner/func_Remove.md
+          - Clean(): Builder/API Reference/Cleaner/func_Clean.md
+        - Public variables:
+          - Objects: Builder/API Reference/Cleaner/publicvar_Objects.md
+        - Events:
+          - OnCleanup: Builder/API Reference/Cleaner/event_OnCleanup.md
+          - OnObjectCleaning: Builder/API Reference/Cleaner/event_OnObjectCleaning.md
+          - OnObjectAdded: Builder/API Reference/Cleaner/event_OnObjectAdded.md
+          - OnObjectRemoving: Builder/API Reference/Cleaner/event_OnObjectRemoving.md
       - Resolvable:
         - About: Builder/API Reference/Resolvable/About.md
         - Functions:

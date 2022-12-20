@@ -1,0 +1,1 @@
+Cleaner is a class for handling cleanups of objects, connections, and custom classes. Similar to one of [Quenty's NevermoreEngine](https://github.com/Quenty/NevermoreEngine) libraries, [Maid](https://github.com/Quenty/NevermoreEngine/tree/main/src/maid).
