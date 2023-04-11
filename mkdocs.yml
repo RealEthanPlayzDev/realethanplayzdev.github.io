@@ -260,6 +260,12 @@ nav:
           - States: Builder/API Reference/MultiState/publicvar_States.md
         - Events:
           - OnChanged: Builder/API Reference/MultiState/event_OnChanged.md
+      - DynamicState:
+        - About: Builder/API Reference/DynamicState/About.md
+        - Functions:
+          - Get(): Builder/API Reference/DynamicState/func_Get.md
+        - Public variables:
+          - Function: Builder/API Reference/DynamicState/publicvar_DynamicState.md
       - Cleaner:
         - About: Builder/API Reference/Cleaner/About.md
         - Functions:
