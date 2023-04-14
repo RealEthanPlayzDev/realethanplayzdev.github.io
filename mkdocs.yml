@@ -287,15 +287,15 @@ nav:
     - About: LuauInLuau/About.md
     - API Reference:
       - Functions:
-        - Run(): Builder/API Reference/Resolvable/func_Run.md
-        - RunWithoutSafeEnv(): Builder/API Reference/Resolvable/func_RunWithoutSafeEnv.md
-        - RunWithSafeEnv(): Builder/API Reference/Resolvable/func_RunWithSafeEnv.md
-        - Compile(): Builder/API Reference/Resolvable/func_Compile.md
-        - RunBytecode(): Builder/API Reference/Resolvable/func_RunBytecode.md
-        - CreateClosureFromSource(): Builder/API Reference/Resolvable/func_CreateClosureFromSource.md
-        - ValidLuauBytecode(): Builder/API Reference/Resolvable/func_ValidLuauBytecode.md
-        - ResultCodeToBoolean(): Builder/API Reference/Resolvable/func_ResultCodeToBoolean.md
+        - Run(): LuauInLuau/API Reference/func_Run.md
+        - RunWithoutSafeEnv(): LuauInLuau/API Reference/func_RunWithoutSafeEnv.md
+        - RunWithSafeEnv(): LuauInLuau/API Reference/func_RunWithSafeEnv.md
+        - Compile(): LuauInLuau/API Reference/func_Compile.md
+        - RunBytecode(): LuauInLuau/API Reference/func_RunBytecode.md
+        - CreateClosureFromSource(): LuauInLuau/API Reference/func_CreateClosureFromSource.md
+        - ValidLuauBytecode(): LuauInLuau/API Reference/func_ValidLuauBytecode.md
+        - ResultCodeToBoolean(): LuauInLuau/API Reference/func_ResultCodeToBoolean.md
       - Public variables:
-        - NamedFunctionList: Builder/API Reference/Resolvable/publicvar_NamedFunctionList.md
-        - rt: Builder/API Reference/Resolvable/publicvar_rt.md
-        - FUNC_LIST: Builder/API Reference/Resolvable/publicvar_FUNC_LIST.md
+        - NamedFunctionList: LuauInLuau/API Reference/publicvar_NamedFunctionList.md
+        - rt: LuauInLuau/API Reference/publicvar_rt.md
+        - FUNC_LIST: LuauInLuau/API Reference/publicvar_FUNC_LIST.md
