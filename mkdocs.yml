@@ -283,3 +283,19 @@ nav:
         - About: Builder/API Reference/Resolvable/About.md
         - Functions:
           - Resolve(): Builder/API Reference/Resolvable/func_Resolve.md
+  - LuauInLuau:
+    - About: LuauInLuau/About.md
+    - API Reference:
+      - Functions:
+        - Run(): Builder/API Reference/Resolvable/func_Run.md
+        - RunWithoutSafeEnv(): Builder/API Reference/Resolvable/func_RunWithoutSafeEnv.md
+        - RunWithSafeEnv(): Builder/API Reference/Resolvable/func_RunWithSafeEnv.md
+        - Compile(): Builder/API Reference/Resolvable/func_Compile.md
+        - RunBytecode(): Builder/API Reference/Resolvable/func_RunBytecode.md
+        - CreateClosureFromSource(): Builder/API Reference/Resolvable/func_CreateClosureFromSource.md
+        - ValidLuauBytecode(): Builder/API Reference/Resolvable/func_ValidLuauBytecode.md
+        - ResultCodeToBoolean(): Builder/API Reference/Resolvable/func_ResultCodeToBoolean.md
+      - Public variables:
+        - NamedFunctionList: Builder/API Reference/Resolvable/publicvar_NamedFunctionList.md
+        - rt: Builder/API Reference/Resolvable/publicvar_rt.md
+        - FUNC_LIST: Builder/API Reference/Resolvable/publicvar_FUNC_LIST.md
