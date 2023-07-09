@@ -3,20 +3,14 @@ Welcome to the public documentation for modules made by me (RadiatedExodus/RealE
 This website, as said above provides documentation, usages, and about for modules I made.
 
 ## Contact me!
-!!! warning "Roblox notes"
-    Around the end of July, my Roblox account was unfortunately banned with a vague
-    reason and Roblox Support refused to accept my appeal, as such my new account
-    userid is 664076365, the old (banned) one is 124648395.
-    The Roblox links below has been updated to reflect the new account
-
-- [My portfolio](https://github.com/RealEthanPlayzDev/RealEthanPlayzDev/blob/main/Portfolio.md)
+- [Roblox Portfolio](https://github.com/RealEthanPlayzDev/RealEthanPlayzDev/blob/main/Portfolio.md)
 - [GitHub](https://github.com/RealEthanPlayzDev/)
 - [Roblox](https://www.roblox.com/users/664076365/profile)
 - [Roblox Developer Forum](https://devforum.roblox.com/u/radiatedexodus/)
 - [Twitter](https://twitter.com/RadiatedExodus)
 - [YouTube](https://www.youtube.com/channel/UCuLAUKIVWXpzSKgn8U6TllA)
 - E-Mail: ``radiatedexodus@gmail.com``
-- Discord: ``RE#6627``
+- Discord: ``radiatedexodus``
 
 ## Public modules
 - [Device Info](./DeviceInfo/About/)
@@ -25,8 +19,9 @@ This website, as said above provides documentation, usages, and about for module
 - [StarGenerator](./StarGenerator/About/)
 - [GeometryLinesBackground](./GeometryLinesBackground/About/)
 - [RESignal](./RESignal/About/)
-- [LuaTextBox](./LuaTextBox/About.md)
+- [LuaTextBox](./LuaTextBox/About/)
 - [Builder](./Builder/About/)
+- [LuauInLuau](./LuauInLuau/About/)
 
 ## Public plugins
 - [RunLSC](https://github.com/RealEthanPlayzDev/RunLSC)

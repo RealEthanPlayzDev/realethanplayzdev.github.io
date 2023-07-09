@@ -3,4 +3,4 @@
 LuauInLuau.FUNC_LIST :: {[number]: (...any) -> (...any)}
 ```
 
-Exposed ``FUNC_LIST`` from WebAssembly
+This is the native function list, from the WebAssembly build

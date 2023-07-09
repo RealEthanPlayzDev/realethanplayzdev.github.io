@@ -290,9 +290,12 @@ nav:
         - Run(): LuauInLuau/API Reference/func_Run.md
         - RunWithoutSafeEnv(): LuauInLuau/API Reference/func_RunWithoutSafeEnv.md
         - RunWithSafeEnv(): LuauInLuau/API Reference/func_RunWithSafeEnv.md
-        - Compile(): LuauInLuau/API Reference/func_Compile.md
         - RunBytecode(): LuauInLuau/API Reference/func_RunBytecode.md
+        - Compile(): LuauInLuau/API Reference/func_Compile.md
         - CreateClosureFromSource(): LuauInLuau/API Reference/func_CreateClosureFromSource.md
+        - ResetFlags(): LuauInLuau/API Reference/func_ResetFlags.md
+        - SetLuauFlag(): LuauInLuau/API Reference/func_SetLuauFlag.md
+        - SetLuauFlags(): LuauInLuau/API Reference/func_SetLuauFlags.md
         - ValidLuauBytecode(): LuauInLuau/API Reference/func_ValidLuauBytecode.md
         - ResultCodeToBoolean(): LuauInLuau/API Reference/func_ResultCodeToBoolean.md
       - Public variables:
