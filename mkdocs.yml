@@ -265,7 +265,7 @@ nav:
         - Functions:
           - Get(): Builder/API Reference/DynamicState/func_Get.md
         - Public variables:
-          - Function: Builder/API Reference/DynamicState/publicvar_DynamicState.md
+          - Function: Builder/API Reference/DynamicState/publicvar_Function.md
       - Cleaner:
         - About: Builder/API Reference/Cleaner/About.md
         - Functions:
